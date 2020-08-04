@@ -5,7 +5,7 @@ const timelineData = [
     fromDate: "March 2019",
     tillDate: "Present",
     description:
-      "1) Work with a team of students to develop an official NASA proposal for a New Technology Report based on NASA Taxonomies. 2) Gain experience in the process of writing, reviewing, and scoring proposals through mentoring sessions by NASA reviewers. 3) Compose an NTR proposal to explore lunar surface and subsurface using an advanced robotic drill with environmental sensors.",
+      "Work with a team of students to develop an official NASA proposal for a New Technology Report based on NASA Taxonomies. Gain experience in the process of writing, reviewing, and scoring proposals through mentoring sessions by NASA reviewers. Compose an NTR proposal to explore lunar surface and subsurface using an advanced robotic drill with environmental sensors.",
   },
   {
     name: "NASA L’SPACE Mission Concept Academy",
